@@ -7,9 +7,13 @@ function Index() {
   return (
     <div>
       index
+      <hr />
       <Input />
+      <hr />
       <AddList />
+      <hr />
       <FooterEnd />
+      <hr />
     </div>
   );
 }
